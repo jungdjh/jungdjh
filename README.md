@@ -1,30 +1,17 @@
-# Hi, I'm David 👋
+Product manager. Product Planning, Strategy & GTM, 14 years.
 
-Product manager by day — and on the side, I build with AI to keep my hands on the craft.
+Lately: Building with AI. Found that it is not as easy as they make it out to be on social media.
 
-Mostly that means small LLM tools that start as "this'll take an afternoon" and turn into a whole thing. I care about agent loops that actually ship, evals that tell the truth, and not lighting money on fire while doing it.
+First one in public:
 
----
+**[newsletter-platform](https://github.com/jungdjh/newsletter-platform)** — describe an audience in a sentence, get a fact-checked, source-ranked brief.
+- Every claim checked against quoted source text. Unsupported ones get flagged.
+- A real eval harness — planted fabrications, scored for recall and false positives. Not vibes.
+- Started as a simple query. Turned into a real side project. Not a product.
 
-### 🛠️ Featured — [newsletter-platform](https://github.com/jungdjh/newsletter-platform)
+I wanted a brief without reading ten sites. Now I read all ten the night before, to check its work...
 
-A multi-track AI newsletter curation system, built end to end:
-
-- **Agent loop** with an evaluator-optimizer "Senior Editor" that fact-checks every story against its sources
-- **Multi-source ingestion** — curated allowlist + RSS feeds + a Haiku ranking pass that cuts fresh-but-off-topic noise
-- **Cost engineering** — prompt caching, server-side web search, model right-sizing
-- **56-test harness** with replay mode, so changes are validated before they ship
-
-🔗 **[Live demo →](https://jungdjh.github.io/newsletter-platform)** · [Design decisions →](https://github.com/jungdjh/newsletter-platform/blob/main/docs/design-decisions.md)
+More on the way. Same thesis, new domains.
 
 ---
-
-### What I'm into
-
-- LLM agent loops + tool use
-- evaluator-optimizer / fact-checking patterns
-- cost engineering for real-world LLM apps
-
-Day job: product manager at Samsung. This is the other half.
-
-📫 [LinkedIn](https://www.linkedin.com/in/jungdjh)
+[LinkedIn](https://www.linkedin.com/in/jungdjh/)
