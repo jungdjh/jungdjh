@@ -4,7 +4,7 @@ Lately: Building with AI. Found that it is not as easy as they make it out to be
 
 First one in public:
 
-**[newsletter-platform](https://github.com/jungdjh/newsletter-platform)** — describe an audience in a sentence, get a fact-checked, source-ranked brief.
+**[newsletter-platform](https://github.com/jungdjh/newsletter-platform)** ([▶ live demo](https://jungdjh.github.io/newsletter-platform/)) — describe an audience in a sentence, get a fact-checked, source-ranked brief.
 - Every claim checked against quoted source text. Unsupported ones get flagged.
 - A real eval harness — planted fabrications, scored for recall and false positives. Not vibes.
 - Started as a simple query. Turned into a real side project. Not a product.
