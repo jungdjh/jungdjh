@@ -11,6 +11,8 @@ First one in public:
 
 I wanted a brief without reading ten sites. Now I read all ten the night before, to check its work...
 
+Second one, in production: **[2nd Opinion](https://2nd-opinion.app)** — homework help that shows its work: three AI models grade independently, math is verified in code, and disagreements get flagged, not hidden.
+
 More on the way. Same thesis, new domains.
 
 ---
